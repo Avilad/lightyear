@@ -19,7 +19,9 @@ lightyear_utils.workspace = true
 lightyear_serde.workspace = true
 
 # utils
+approx.workspace = true
 chrono.workspace = true
+fixed.workspace = true
 tracing.workspace = true
 
 # bevy
